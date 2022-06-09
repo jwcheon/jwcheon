@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## Check out my recent work:
+## 👋 Check out my recent work:
 
 - (ENG) **Mutual NFT Searcher** : https://mutual-nft-searcher.netlify.app/
   - Easily compare any two cross-chain NFT projects in detail. (Currently supports KLAY, ETH, MATIC, BSC)

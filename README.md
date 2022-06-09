@@ -1,7 +1,8 @@
 ## 👋 Check out my recent work:
 
 - (ENG) **Mutual NFT Searcher** : https://mutual-nft-searcher.netlify.app/
-  - Easily compare any two cross-chain NFT projects in detail. (Currently supports KLAY, ETH, MATIC, BSC)
+  - Easily compare any two cross-chain NFT projects in detail. Currently supports KLAY, ETH, MATIC, BSC.
+  - Initiated project for the Klaytn Covalent Hackathon (3rd Prize Winner)
   - Repo: https://github.com/jwcheon/klaytn-covalent-hackathon-nft
 
 - (KOR) **Bangtal MBTI** : https://www.bangtal-mbti.com/

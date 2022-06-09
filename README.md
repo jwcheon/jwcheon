@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jwcheon/jwcheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Check out my recent work:
 
-Here are some ideas to get you started:
+- (ENG) **Mutual NFT Searcher** : https://mutual-nft-searcher.netlify.app/
+  - Easily compare any two cross-chain NFT projects in detail. (Currently supports KLAY, ETH, MATIC, BSC)
+  - Repo: https://github.com/jwcheon/klaytn-covalent-hackathon-nft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- (KOR) **Bangtal MBTI** : https://www.bangtal-mbti.com/
+  - A simple MBTI test for room escapers in Korea. Attracted 2000+ on the first day. Will be airdropping NFTs to survey participants.
+
+
+## 📫 How to reach me:
+- **jinwoocheon@yonsei.ac.kr**
+- telegram: **@hellocryptokr**

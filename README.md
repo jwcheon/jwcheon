@@ -11,7 +11,7 @@
 
 ## Previous Works:
 
-- Dacon Data Competition w/ Funda
+- **Dacon Data Competition w/ Funda**
   - Forecasting revenue of SMEs for a safer lending system
   - https://dacon.io/codeshare/450 (2nd Prize)
 

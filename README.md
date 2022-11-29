@@ -6,7 +6,7 @@
   - Repo: https://github.com/jwcheon/klaytn-covalent-hackathon-nft
 
 - (KOR) **Bangtal MBTI** : https://www.bangtal-mbti.com/
-  - A simple MBTI test for room escapers in Korea. Attracted 2000+ just on Day 1. Will be airdropping NFTs to survey participants.
+  - A simple MBTI test for room escapers in Korea. Attracted 2,000+ just on Day 1. Will be airdropping NFTs to survey participants.
 
 
 ## Other Works:

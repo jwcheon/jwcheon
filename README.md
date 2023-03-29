@@ -12,7 +12,6 @@
 
 - **Gitcoin Passport Hackathon Winner**
   - Building a simple yet creative educational purpose website for Gitcoin Passport.
-  - https://gitcoin-passport.netlify.app/
   
 - **Dacon Data Competition w/ Funda**
   - Forecasting revenue of SMEs for a safer lending system

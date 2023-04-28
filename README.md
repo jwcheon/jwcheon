@@ -1,7 +1,8 @@
 ## 👋 Check out my recent work:
 
 - (KOR) **MakingCover.AI** : https://makingcover.ai
-  - AI generated book cover image w/ title for Web Novels.
+  - AI generated book cover image w/ title for Web Novels. Prompts are abstracted into #hashtags for user convenience.
+  - Looking to further develop this mini project w/ a subscription model.
   
 - (ENG) **Mutual NFT Searcher** : https://mutual-nft-searcher.netlify.app/
   - Easily compare any two cross-chain NFT projects in detail. Currently supports KLAY, ETH, MATIC, BSC.

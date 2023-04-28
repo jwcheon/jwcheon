@@ -1,5 +1,8 @@
 ## 👋 Check out my recent work:
 
+- (KOR) **MakingCover.AI** : https://makingcover.ai
+  - AI generated book cover image w/ title for Web Novels.
+  
 - (ENG) **Mutual NFT Searcher** : https://mutual-nft-searcher.netlify.app/
   - Easily compare any two cross-chain NFT projects in detail. Currently supports KLAY, ETH, MATIC, BSC.
   - Initiated project for the Klaytn Covalent Hackathon (3rd Prize Winner)

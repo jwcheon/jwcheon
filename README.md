@@ -1,14 +1,19 @@
 ## 👋 Check out my recent work:
 
-- (KOR) **MakingCover.AI** : https://makingcover.ai
+- (EN) **Cliq Network** : https://cliqnetwork.xyz/
+  - Anonymous forum for Web3 experts. Built as PWA.
+  - Powered with Solana blockchain with SBT, Underdog API, Magic Eden API.
+  - https://github.com/cliqnetwork-xyz 
+
+- (KR) **MakingCover.AI** : https://makingcover.ai
   - AI generated book cover image w/ title for Web Novels. Prompts are abstracted into #hashtags for user convenience.
   - Looking to further develop this mini project w/ more complex options, expand provided AI models, and implement subscription plans.
   
-- (ENG) **Mutual NFT Searcher** : https://mutual-nft-searcher.netlify.app/
+- (EN) **Mutual NFT Searcher** : https://mutual-nft-searcher.netlify.app/
   - Easily compare any two cross-chain NFT projects in detail. Currently supports KLAY, ETH, MATIC, BSC.
   - Initiated project for the Klaytn Covalent Hackathon (3rd Prize Winner)
 
-- (KOR) **Bangtal MBTI** : https://www.bangtal-mbti.com/
+- (KR) **Bangtal MBTI** : https://www.bangtal-mbti.com/
   - A simple MBTI test for room escapers in Korea. Attracted 2,000+ just on Day 1. Will be airdropping NFTs to survey participants.
 
 

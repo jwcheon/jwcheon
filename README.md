@@ -3,7 +3,7 @@
 - (EN) **Cliq Network** : https://cliqnetwork.xyz/
   - Anonymous forum for Web3 experts. Built as PWA.
   - Powered with Solana blockchain with SBT, Underdog API, Magic Eden API.
-  - [Solana Hyperdrive Hackathon 3rd Place](https://solana.com/news/solana-hyperdrive-hackathon-winners) (Mobile Consumer Apps Track)
+  - [Solana Hyperdrive Hackathon Winner](https://solana.com/news/solana-hyperdrive-hackathon-winners) (3rd Place, Mobile Consumer Apps Track)
 
 - (KR) **MakingCover.AI** : https://makingcover.ai
   - AI generated book cover image w/ title for Web Novels. Prompts are abstracted into #hashtags for user convenience.

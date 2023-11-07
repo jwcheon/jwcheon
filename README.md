@@ -14,7 +14,7 @@
   - Initiated project for the [Klaytn-Covalent Hackathon Winner](https://klaytn.foundation/klaytn-covalent-hackathon-2022-winners/) (2nd Runner-up)
 
 - (KR) **Bangtal MBTI** : https://www.bangtal-mbti.com/
-  - A simple MBTI test for room escapers in Korea. Attracted 2,000+ just on Day 1. Will be airdropping NFTs to survey participants.
+  - A simple MBTI test for room escapers in Korea. Attracted 2,000+ just on Day 1.
 
 
 ## Other Works:

@@ -7,11 +7,11 @@
 
 - (KR) **MakingCover.AI** : https://makingcover.ai
   - AI generated book cover image w/ title for Web Novels. Prompts are abstracted into #hashtags for user convenience.
-  - Looking to further develop this mini project w/ more complex options, expand provided AI models, and implement subscription plans.
+  - Primer Gen AI Hackathon Finalist
   
 - (EN) **Mutual NFT Searcher** : https://mutual-nft-searcher.netlify.app/
   - Easily compare any two cross-chain NFT projects in detail. Currently supports KLAY, ETH, MATIC, BSC.
-  - Initiated project for the Klaytn Covalent Hackathon (3rd Prize Winner)
+  - Initiated project for the [Klaytn-Covalent Hackathon Winner](https://klaytn.foundation/klaytn-covalent-hackathon-2022-winners/) (2nd Runner-up)
 
 - (KR) **Bangtal MBTI** : https://www.bangtal-mbti.com/
   - A simple MBTI test for room escapers in Korea. Attracted 2,000+ just on Day 1. Will be airdropping NFTs to survey participants.

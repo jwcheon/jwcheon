@@ -1,6 +1,6 @@
 ## 👋 Check out my recent work:
 
-- (EN) **Cliq Network** : https://cliqnetwork.xyz/
+- (EN) **Cliq Network**
   - Anonymous forum for Web3 experts. Built as PWA.
   - Powered on Solana blockchain with SBT, Web3Auth, Underdog API, and Magic Eden API.
   - [Solana Hyperdrive Hackathon Winner](https://solana.com/news/solana-hyperdrive-hackathon-winners) (3rd Place, Mobile Consumer Apps Track)

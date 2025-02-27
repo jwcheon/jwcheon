@@ -1,5 +1,9 @@
 ## 👋 Check out my recent work:
 
+- **Gacha**
+  - A full suite of onchain consumer experiences, built on Abstract 
+  - [https://gacha.game](https://gacha.game)
+ 
 - **Pump Markets**
   - The ultimate points protocol, built on Blast L2   
   - [https://otc.pump.markets](https://otc.pump.markets/)

@@ -1,11 +1,15 @@
 ## 👋 Check out my recent work:
 
 - **Gacha**
-  - A full suite of onchain consumer experiences, built on Abstract 
+  - A full suite of onchain consumer experiences, built on Abstract.
   - [https://gacha.game](https://gacha.game)
  
+- **Human Tap**
+  - #1 Game App on World Chain. 270k+ users tapping away.
+  - [https://worldcoin.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857](https://worldcoin.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857)
+ 
 - **Pump Markets**
-  - The ultimate points protocol, built on Blast L2   
+  - The ultimate points protocol, built on Blast L2.
   - [https://otc.pump.markets](https://otc.pump.markets/)
 
 - **Cliq Network**

@@ -1,11 +1,11 @@
 ## 👋 Check out my recent work:
 
 - **Gacha**
-  - A full suite of onchain consumer experiences, built on Abstract.
+  - A full suite of onchain consumer experiences, built on Abstract. ([DefiLlama Revenue](https://defillama.com/protocol/gacha#fees-revenue))
   - [https://gacha.game](https://gacha.game)
  
 - **Human Tap**
-  - #1 Game App on World Chain. 270k+ users tapping away.
+  - #1 Game App on World Chain. 300k users tapping away.
   - [https://worldcoin.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857](https://worldcoin.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857)
  
 - **Pump Markets**

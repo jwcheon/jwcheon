@@ -5,7 +5,7 @@
   - [https://gacha.game](https://gacha.game)
  
 - **Human Tap**
-  - #1 Game App on World Chain. 300k users tapping away.
+  - #1 Game App on World Chain. 450k users tapping away.
   - [https://worldcoin.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857](https://worldcoin.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857)
  
 - **Pump Markets**

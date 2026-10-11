@@ -1,4 +1,8 @@
-## 👋 Check out my recent work:
+## 👋 Recent work:
+
+- **Ad-tech App**
+  - Stealth ad-tech app. 200k+ downloads in 5 months, currently 25k USD revenue per month.
+  - 3k organic downloads per day as of Oct 26.
 
 - **Gacha**
   - A full suite of onchain consumer experiences, built on Abstract. ([DefiLlama Revenue](https://defillama.com/protocol/gacha#fees-revenue))

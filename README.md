@@ -1,20 +1,22 @@
 ## 👋 Recent work:
 
-- **AEO/SEO Optimized Websites**
+- **AEO/SEO Optimized Websites** (2026)
   - Total 15 stealth websites optimized for AI & Humans.
   - **Approx. 33M impression per month & 240k clicks.**
   - Aiming to increase the portfolio to 50 websites.
 
-- **Ad-tech App**
+- **Ad-tech App** (2026)
   - Stealth ad-tech app. **200k+ downloads in 5 months**, currently **25k USD revenue per month**.
   - **3k organic downloads per day** as of Oct 26.
+ 
+---
 
-- **Gacha**
+- **Gacha** (2025)
   - A full suite of onchain consumer experiences, built on Abstract. ([DefiLlama Revenue](https://defillama.com/protocol/gacha#fees-revenue))
   - [https://gacha.game](https://gacha.game)
  
-- **Human Tap**
-  - #1 Game App on World Chain. 450k users tapping away.
+- **Human Tap** (2024~)
+  - #1 Game App on World Chain. 560k+ users tapping away.
   - [https://worldcoin.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857](https://worldcoin.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857)
  
 - **Pump Markets**

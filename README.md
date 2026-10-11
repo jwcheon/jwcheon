@@ -1,8 +1,13 @@
 ## 👋 Recent work:
 
+- **AEO/SEO Optimized Websites**
+  - Total 15 stealth websites optimized for AI & Humans.
+  - **Approx. 33M impression per month & 240k clicks.**
+  - Aiming to increase the portfolio to 50 websites.
+
 - **Ad-tech App**
-  - Stealth ad-tech app. 200k+ downloads in 5 months, currently 25k USD revenue per month.
-  - 3k organic downloads per day as of Oct 26.
+  - Stealth ad-tech app. **200k+ downloads in 5 months**, currently **25k USD revenue per month**.
+  - **3k organic downloads per day** as of Oct 26.
 
 - **Gacha**
   - A full suite of onchain consumer experiences, built on Abstract. ([DefiLlama Revenue](https://defillama.com/protocol/gacha#fees-revenue))

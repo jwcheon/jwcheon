@@ -2,7 +2,7 @@
 
 - **AEO/SEO Optimized Websites** (2026)
   - Total 15 stealth websites optimized for AI & Humans.
-  - **Approx. 33M impression per month & 240k clicks.**
+  - **Approx. 33M impression & 240k clicks, per 30 days.**
   - Aiming to increase the portfolio to 50 websites.
 
 - **Ad-tech App** (2026)
